@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Mean Girls",
+      "release_year": "2004",
+      "image": "https://img01.mgo-images.com/image/thumbnail?id=1MV270609a1c6c89af5538a6d63cea71ed4&ql=70&sizes=310x465"
+    },
+    {
+      "title": "Clueless",
+      "release_year": "1995",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91%2B6LJTjUYL._SL1500_.jpg"
+    },
+    {
+      "title": "The Fellowship of the Ring",
+      "release_year": "2001",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY1200_CR89,0,630,1200_AL_.jpg"
+    },
+    {
+      "title": "Good Will Hunting",
+      "release_year": "1997",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+    },
+    {
+      "title": "Tangled",
+      "release_year": "2010",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a8/Tangled_poster.jpg"
+    }
+  ]
